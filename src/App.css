@@ -1,0 +1,14 @@
+ ul{
+  list-style: none;
+  
+}
+.container ul li{
+  display: inline;
+  padding: 10px;
+  
+}
+.container{
+  background-color: black;
+  height: 100px;
+  text-align: center;
+}
